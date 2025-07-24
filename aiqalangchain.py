@@ -5,7 +5,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 import os
 
-os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
+os.environ["OPENAI_API_KEY"] = "AIzaSyDaGmWKa4JsXZ-HjGw7ISLn_3namBGewQe"
 
 sample_text = """
 The solar system consists of the Sun and eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
